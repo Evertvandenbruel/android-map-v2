@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+/Users/evert/Documents/dev/android-map-v2/.metadata/.plugins/org.eclipse.jdt.core
+99616072.index
+508786091.index
+2238993464.index
+2682691614.index
+1415693123.index
+2147644932.index
